@@ -16,7 +16,7 @@ $(function(){
         })
     }
 
-    $("#Texto").jsSocials({
+    $("#Share").jsSocials({
         shares: ["twitter", "facebook", "linkedin", "pinterest", "whatsapp"]
     });
 
