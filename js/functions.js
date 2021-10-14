@@ -16,4 +16,8 @@ $(function(){
         })
     }
 
+    $("#Texto").jsSocials({
+        shares: ["twitter", "facebook", "linkedin", "pinterest", "whatsapp"]
+    });
+
 })
